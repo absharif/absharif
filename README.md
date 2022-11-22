@@ -1,0 +1,7 @@
+- 👋 Hi, I’m AB Sharif
+- I’m working as Python Full Stack Web Developer.
+- Working as Automation Engineer at Vitamin Lab and looking for fulltime Software Engineering Position.
+- I’m Intersted in web applicatin development and automation.
+- 🌱 I’m currently learning WEB3 things.
+- I’m looking to collaborate on any SAAS Product Idea.
+- You can reach me at absahrif.cs[AT]gmail.com
